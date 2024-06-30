@@ -65,11 +65,6 @@ Tech Titans CitiConnekt is an integrated Smart City Management System designed t
    - **Accessibility Options**: Ensure the portal is accessible to people with disabilities, including screen reader compatibility and adjustable text sizes.
    - **User-Friendly Design**: Focus on intuitive navigation and a clean, responsive design for easy access on all devices.
 
-10. **Blockchain Integration for Security**:
-    - **Digital Identity Verification**: Implement blockchain-based digital identity systems for secure and transparent citizen verification.
-    - **Transparent Transactions**: Use blockchain to track and verify transactions, enhancing security and trust.
-    - **Secure Voting**: Facilitate secure online voting for local elections and referendums using blockchain technology.
-
 # Achievements So Far
 
 
